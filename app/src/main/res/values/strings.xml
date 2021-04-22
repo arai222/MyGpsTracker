@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyGpsTracker</string>
+
+    <string name="longitude">Longitude:</string>
+    <string name="longitudeValue">0.0</string>
+    <string name="latitude">Latitude:</string>
+    <string name="latitudeValue">0.0</string>
+    <string name="altitude">Altitude:</string>
+    <string name="altitudeValue">0.0</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="accuracyValue">0.0</string>
+    <string name="speed">Speed:</string>
+    <string name="speedValue">0.0</string>
+    <string name="address">Address:</string>
+    <string name="addressVal"> </string>
+
+    <string name="locationUpdates">Update the location:</string>
+    <string name="updates"> Updates</string>
+    <string name="updatesVal">OFF</string>
+    <string name="GPSPowerSaver">GPS/PowerSaver: </string>
+    <string name="sensor">Sensor:</string>
+    <string name="sensorVal">Cell Tower + Wifi</string>
+
+    <string name="UsingGps">Using GPS</string>
+    <string name="cellPhoneWifi">Using Cellphone Tower and WIFI </string>
+    <string name="OffTracker">Tracker is OFF</string>
+    <string name="OnTracker">Tracker is ON </string>
+    <string name="apllicability">NOT APPLICABLE</string>
+    <string name="ERROR">ERROR</string>
+
+    <string name="wayPoints">Way Points:</string>
+    <string name="wayPointsBox"> </string>
+    <string name="NoOfLocations">No of Locations added </string>
+
+
+    <string name="locations">locations</string>
+    <string name="map">Show Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
