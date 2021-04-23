@@ -3,7 +3,6 @@
 # MYGPSTRACKER USER GUIDE
 
 
-<br/>
 ## Table of contents
 * [Introduction](#Introduction)
 * [Description](#Description)
@@ -25,7 +24,7 @@
 
 
 ## Introduction
-<br/>
+
 ### Description
 MyGpsTracker is a simple android app written in JAVA in Android Studio that allows users to track their location in real time through GPS or cell-phone tower or WIFI. The app allows the users to see the latitude, longitude, and the address of their location along with the accuracy, speed, and altitude.
 	
@@ -42,7 +41,6 @@ MyGpsTracker is a simple android app written in JAVA in Android Studio that allo
 <br/>
 
 ## Getting Started?
-<br/>
 
 ### How it Works?
 
